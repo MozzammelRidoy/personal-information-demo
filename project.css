@@ -33,6 +33,8 @@ header{
 .navbar{
     padding: 1% 10%;
     background-color: rgba(0, 0, 0, 0.3)
+    
+    
 }
 .navbar-brand img{
     width: 75px;
@@ -206,4 +208,6 @@ header{
     .banner-container h1{
         font-size: 2.5rem;
     }
+   
+   
  }
